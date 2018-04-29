@@ -13,7 +13,7 @@ makecode 的 DS1302 时钟模块 microbit 软件包
 
 打开 makecode 编辑器，在项目中选择添加软件包，然后在地址栏输入下面网址：
 
-https://github.com/microbit-makecode-packages/DS1302  
+https://github.com/zhuning239/DS1302 
 
 搜索后就可以添加并使用本软件包了。
 
