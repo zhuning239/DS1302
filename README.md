@@ -1,21 +1,21 @@
 # DS1302
 
-makecode DS1302 RTC package for micro:bit  
+makecode 的 DS1302 时钟模块 microbit 软件包
 
-Author: shaoziyang  
-Date:   2018.Mar  
+作者: 朱林  
+时间: 2018/4  
 
-![](https://raw.githubusercontent.com/microbit-makecode-packages/DS1302/master/icon.png)  
+![image](https://github.com/zhuning239/DS1302/blob/master/icon.png)  
   
-![](https://raw.githubusercontent.com/microbit-makecode-packages/DS1302/master/ds1302.jpg)
+![image](https://github.com/zhuning239/DS1302/blob/master/ds1302.jpg)
 
 ## usage
 
-open your microbit makecode project, in Add Package, paste  
+打开 makecode 编辑器，在项目中选择添加软件包，然后在地址栏输入下面网址：
 
 https://github.com/microbit-makecode-packages/DS1302  
 
-to search box then search.
+搜索后就可以添加并使用本软件包了。
 
 
 ## API
@@ -73,21 +73,19 @@ reg: 0-30
 read data from ram  
 reg: 0-30
 
-## Demo
+## 演示
 
-![](https://raw.githubusercontent.com/microbit-makecode-packages/DS1302/master/demo.jpg)  
+![image](https://github.com/zhuning239/DS1302/blob/master/demo.jpg)  
 
-![](https://raw.githubusercontent.com/microbit-makecode-packages/DS1302/master/demo.gif)  
+![image](https://github.com/zhuning239/DS1302/blob/master/demo.gif)  
 
-## License
+## 授权方式
 
 MIT
 
-Copyright (c) 2018, microbit/micropython Chinese community  
+湖南创乐博智能科技有限公司
 
-## Supported targets
+## 支持硬件
 
 * for PXT/microbit
 
-
-[From microbit/micropython Chinese community](http://www.micropython.org.cn)
